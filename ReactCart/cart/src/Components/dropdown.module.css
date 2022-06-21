@@ -1,0 +1,7 @@
+.dropdown{
+    border:2px solid white;
+    z-index: 1000;
+    background-color: Teal;
+    
+    cursor: pointer;
+}

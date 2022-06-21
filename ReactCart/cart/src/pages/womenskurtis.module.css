@@ -1,0 +1,26 @@
+.maincontainer{
+    margin-top: 10%;
+    display:grid;
+  
+    grid-template-columns: repeat(4,1fr);
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5%  ;
+    padding-right: 5%;
+    
+}
+.eachdiv{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     height:auto;
+     width:300px;
+
+}
+.btn{
+    background-color: teal;
+    color:white;
+    border:none;
+    height:30px;
+    font-size: large;
+    margin-top: 5px;
+}
